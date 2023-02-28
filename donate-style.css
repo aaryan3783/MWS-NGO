@@ -267,6 +267,28 @@ justify-content: center;
 
 
 
+/* styling payment btn   */
+
+.payment-btn{
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-block: 80px;
+    padding-block: 50px;
+    background-color: #b6d2ea;
+}
+.payment-btn form{
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+
+
+
+
+
 /* styling donation sextion  */
 .donation-section{
     background-image: url('img/home-background-donation.jpg');
