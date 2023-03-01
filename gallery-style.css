@@ -3,7 +3,7 @@
 
 /* re-set our page */
 *{
-    margin: 0;
+    margin: 0
     padding: 0;
     box-sizing: border-box;
     /* overflow: hidden; */
@@ -193,7 +193,7 @@ ul{
   
   /* to make gallery img in center  */
   .full-img{
-      width: 100%;
+      width: 100vw;
       height: 100vh;
       background-color: rgba(0,0,0,0.9);
       position: fixed;
@@ -210,8 +210,8 @@ ul{
   }
   .full-img span{
       position: absolute;
-      top: 5%;
-      right: 5%;
+      top: 10%;
+      right: 15%;
       font-size: 30px;
       color: #fff;
       cursor: pointer;
