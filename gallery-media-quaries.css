@@ -146,6 +146,18 @@
     .footer-part3 div {
         width: 80%;
     }
+
+    /* sytling gallery section  */
+.gallery{
+    flex-direction: column;
+}
+.gallery img{
+    width: 100%;
+
+}
+
+
+
 }
 
 
